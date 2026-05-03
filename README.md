@@ -6,7 +6,7 @@
 
 ### ⚡ Modern Front-End Personal Portfolio  
 
-### 🚀 Live Demo - https://your-vercel-link.vercel.app
+### 🚀 Live Demo - https://zaid-pesonalportfolio.vercel.app
 
 ---
 
@@ -56,7 +56,7 @@ The main goal of this project is to create a modern digital presence with pixel-
 
 🚀 This project is live and deployed on **Vercel**  
 
-🔗 Live Link: https://your-vercel-link.vercel.app  
+🔗 Live Link: https://zaid-pesonalportfolio.vercel.app
 
 ---
 
@@ -86,10 +86,22 @@ Open the `index.html` file in your browser.
 ## 🖼️ Project Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](your-desktop-image-link)
+[Desktop Screenshot]
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-04 020053" src="https://github.com/user-attachments/assets/4e39c97b-bb84-4939-8b25-cc84daac98ef" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-04 020106" src="https://github.com/user-attachments/assets/03627622-04a3-4aad-8291-7e1083bf941f" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-04 020113" src="https://github.com/user-attachments/assets/515d7c83-abc8-4994-9f11-08886722d11f" />
+
+
 
 ### 📱 Mobile View
-![Mobile Screenshot](your-mobile-image-link)
+[Mobile Screenshot]
+
+<img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 23 AM" src="https://github.com/user-attachments/assets/7ffa369f-9be3-4eeb-aa3e-12bde89fff48" />
+<img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 23 AM (1)" src="https://github.com/user-attachments/assets/c8f1aa8d-e7ef-412c-80db-92d62bd6cdcd" />
+<img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 23 AM (2)" src="https://github.com/user-attachments/assets/6350a4c1-5240-41df-8548-655b32530258" />
+<img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 24 AM" src="https://github.com/user-attachments/assets/ebd74c80-475c-4e1f-977a-71ff23b611ec" />
+
 
 > 📌 *(Replace the image links above with your actual screenshots)*
 
