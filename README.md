@@ -86,7 +86,6 @@ Open the `index.html` file in your browser.
 ## 🖼️ Project Screenshots
 
 ### 💻 Desktop View
-[Desktop Screenshot]
 
 <img width="1919" height="1079" alt="Screenshot 2026-05-04 020053" src="https://github.com/user-attachments/assets/4e39c97b-bb84-4939-8b25-cc84daac98ef" />
 <img width="1919" height="1079" alt="Screenshot 2026-05-04 020106" src="https://github.com/user-attachments/assets/03627622-04a3-4aad-8291-7e1083bf941f" />
@@ -95,7 +94,7 @@ Open the `index.html` file in your browser.
 
 
 ### 📱 Mobile View
-[Mobile Screenshot]
+
 
 <img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 23 AM" src="https://github.com/user-attachments/assets/7ffa369f-9be3-4eeb-aa3e-12bde89fff48" />
 <img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 23 AM (1)" src="https://github.com/user-attachments/assets/c8f1aa8d-e7ef-412c-80db-92d62bd6cdcd" />
@@ -103,7 +102,6 @@ Open the `index.html` file in your browser.
 <img width="590" height="1280" alt="WhatsApp Image 2026-05-04 at 2 05 24 AM" src="https://github.com/user-attachments/assets/ebd74c80-475c-4e1f-977a-71ff23b611ec" />
 
 
-> 📌 *(Replace the image links above with your actual screenshots)*
 
 ---
 
